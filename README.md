@@ -17,6 +17,8 @@ A feature-rich TODO application built with React, offering intuitive task manage
 - **Responsive Design**: Optimized for various screen sizes to ensure accessibility on all devices.
 - **User-Friendly Interface**: Clean and intuitive UI for effortless task management.
 
+![Enhanced TODO App Screenshot](./screenshot/Screenshot 2024-10-07 231130.png)
+
 ## Tech Stack
 
 - **React**: Frontend library for building user interfaces.
